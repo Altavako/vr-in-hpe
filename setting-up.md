@@ -16,6 +16,7 @@ The first thing you should do after installing Git is to set your user name and 
 ## Github
 
 1. Create a [GitHub account](https://github.com/).
+2. Set up [GitHub Pages](https://pages.github.com/).
 
 ## Setting up Visual Studio Code
 
@@ -26,6 +27,8 @@ The first thing you should do after installing Git is to set your user name and 
 5. Paste the URL from the VR-in-HPE repository into the field that appears at the top of VS Code.
 6. Choose a location to clone (i.e. copy) the files from the GitHub repository onto your computer.
 7. Install the **Markdown All in One** extension.
+
+
 
 ## Markdown
 

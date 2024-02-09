@@ -10,13 +10,39 @@
 
 
 
+
 ## Audience
 
+- 
 
 
-## Collaborators
+## Learning outcomes
+
+- 
+
+## Briefing
 
 
 
-## Resources
+## Activities
+
+**Task 1**: 
+
+**Task 2**: 
+
+**Task 3**: 
+
+
+## Debriefing
+
+- 
+
+## Evaluation
+
+- 
+
+
+---
+
+## Team
 

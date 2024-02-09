@@ -1,6 +1,6 @@
 ## Background
 
-We wanted to 
+
 
 ## Scenario
 
@@ -8,18 +8,53 @@ We wanted to
 
 ## Purpose
 
-Our main goal is to have a VR scenario that could be used in a wide range of teaching and learning contexts across the university.
+
+
 
 ## Audience
 
+- 
 
 
-## Collaborators
+## Learning outcomes
+
+- 
+
+## Briefing
+
+
+
+## Activities
+
+**Task 1**: 
+
+**Task 2**: 
+
+**Task 3**: 
+
+
+## Debriefing
+
+- 
+
+## Evaluation
+
+- 
+
+
+---
+
+## Team
+
 
 - Student actors and staff from the School of Creative Arts.
-- Colleagues from the School of Film, Media, and Journalism
+- Colleagues from the School of Film, Media, and Journalism.
+- Local police services.
 
-## Local police
+Local police services
 
 - Guidance and information re. police protocols around mass casualty incidents.
 - Possibly acting in the film.
+
+---
+
