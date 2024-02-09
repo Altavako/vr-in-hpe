@@ -7,6 +7,6 @@
 ## Projects
 
 - [Office space](./project - office space.md).
-- [Waiting room](./proejct - waiting room.md).
+- [Waiting room](./project - waiting room.md).
 - [Mass casualty incident](./project - mass casualty.md)
 
