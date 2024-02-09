@@ -2,11 +2,13 @@
 
 ## About
 
-- [Setting up](./setting-up.md).
+- [Setting up](./setting-up.md)
 
 ## Projects
 
-- [Office space](./project - office space.md).
-- [Waiting room](./project - waiting room.md).
-- [Mass casualty incident](./project - mass casualty.md)
+- [Patient journey](./projects/project-patient-journey.md)
+- [Office space](./projects/project-office-space.md)
+- [Waiting room](./projects/project-waiting-room.md)
+- [Home observation](./projects/project-home-observation.md)
+- [Mass casualty incident](./projects/project-mass-casualty.md)
 
